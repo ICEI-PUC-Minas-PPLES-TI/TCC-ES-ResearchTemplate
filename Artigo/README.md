@@ -1,3 +1,4 @@
 # Artigo
 
-Deve ser conectado ao overleaf. No TCC I é o projeto. No TCC II é o continuação, com os resultados, discussões, conclusão, etc
+1. Link do projeto no overleaf
+1. [Síntese do projeto](sumario.md)
